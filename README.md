@@ -17,7 +17,9 @@
 
 ## 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syrym-umbetov&theme=default)
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-stats-syrymumbetovs-projects.vercel.app/api?username=syrym-umbetov&show_icons=true&theme=default)
+## 📊 Top Languages
 ![Top Languages](https://github-stats-syrymumbetovs-projects.vercel.app/api/top-langs/?username=syrym-umbetov&layout=compact)
 
 ## 🔗 Links

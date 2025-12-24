@@ -16,7 +16,7 @@
 - **Technodom** — E-commerce platform (500K+ monthly visitors)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syrym-umbetov&show_icons=true&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syrym-umbetov&theme=default)
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/syrym-umbetov)

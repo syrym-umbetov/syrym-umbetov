@@ -18,9 +18,8 @@
 ## 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syrym-umbetov&theme=default)
 
-<img src="https://github-stats-syrymumbetovs-projects.vercel.app/api?username=syrym-umbetov&show_icons=true&theme=default" alt="GitHub Stats" />
+<img src="https://github-stats-beta-ashen.vercel.app/api?username=syrym-umbetov&show_icons=true" alt="GitHub Stats" />
 
-<img src="https://github-stats-syrymumbetovs-projects.vercel.app/api/top-langs/?username=syrym-umbetov&layout=compact" alt="Top Languages" />
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/syrym-umbetov)

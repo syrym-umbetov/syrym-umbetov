@@ -19,6 +19,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syrym-umbetov&theme=default)
 
 <img src="https://github-stats-beta-ashen.vercel.app/api?username=syrym-umbetov&show_icons=true" alt="GitHub Stats" />
+<img src="https://github-stats-beta-ashen.vercel.app/api/top-langs/?username=syrym-umbetov&layout=compact&theme=default" alt="Top languages" />
+
+![GitHub Stats](https://github-stats-beta-ashen.vercel.app/api?username=syrym-umbetov&show_icons=true&theme=default)
+
+![Top Languages](https://github-stats-beta-ashen.vercel.app/api/top-langs/?username=syrym-umbetov&layout=compact&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syrym-umbetov&theme=default)
 
 
 ## 🔗 Links

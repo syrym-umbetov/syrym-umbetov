@@ -18,9 +18,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syrym-umbetov&theme=default" height="165"/>
   <img src="https://github-stats-beta-ashen.vercel.app/api?username=syrym-umbetov&show_icons=true&theme=default" height="165"/>
   <img src="https://github-stats-beta-ashen.vercel.app/api/top-langs/?username=syrym-umbetov&layout=compact&theme=default" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syrym-umbetov&theme=default" height="165"/>
 </p>
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/syrym-umbetov)
